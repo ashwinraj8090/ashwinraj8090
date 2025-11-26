@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin Raj</h1>
 <h3 align="center">Computer Science Engineering Student from Kerala , India</h3>
-<h4 align="center">An Aspiring Software Engineer</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinraj8090&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinraj8090" /> </p>
 
