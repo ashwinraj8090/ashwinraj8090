@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashwin Raj</h1>
 <h3 align="center">Computer Science Engineering Undergraduate from Kerala , India</h3>
+<h4 align="center">Aspiring Software Engineer with a strong interest in AI, Machine Learning, and System Design</h4>
 
 - 📫 How to reach me **ashwinraj8090@gmail.com**
 
