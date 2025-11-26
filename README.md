@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin Raj</h1>
-<h3 align="center">Computer Science Engineering Student from Kerala , India</h3>
+<h3 align="center">Computer Science Engineering Undergraduate from Kerala , India</h3>
 
 - 📫 How to reach me **ashwinraj8090@gmail.com**
 
