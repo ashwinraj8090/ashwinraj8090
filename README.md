@@ -1,18 +1,81 @@
 <h1 align="center">Hi 👋, I'm Ashwin Raj</h1>
-<h3 align="center">Computer Science Engineering Undergraduate from Kerala , India</h3>
-<h4 align="center">Aspiring Software Engineer with a strong interest in AI, Machine Learning, and System Design</h4>
+<h3 align="center">Aspiring Software Engineer | Computer Science Undergraduate</h3>
 
-- 📫 How to reach me **ashwinraj8090@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashwinraj8090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwinraj8090" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashwinraj8090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashwinraj8090" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashwin-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashwin-raj" height="30" width="40" /></a>
+<p align="center">
+📍 Kerala, India  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+I am a **Computer Science Engineering undergraduate** with a strong interest in **Artificial Intelligence, Machine Learning, and System Design**.  
+I enjoy building practical projects, improving my problem-solving skills, and continuously learning new technologies.
+
+Currently focused on:
+- Strengthening **DSA & backend fundamentals**
+- Building **ML-based and system-oriented projects**
+- Preparing for **software engineering roles**
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,java,html,bootstrap,react,flask,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 📌 Student Performace Analysis System  
+**Tech Stack:** Python, Machine Learning (Random Forest), React, Flask  
+- Predicts student grades based on academic performance data  
+- Helps identify at-risk students early  
+- Includes data visualization for performance analysis  
+
+🔗 *Repo link:* *https://github.com/ashwinraj8090/Student_Performance_Analysis*
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: **ashwinraj8090@gmail.com**
+- 💼 LinkedIn: *https://www.linkedin.com/in/ashwinraj8090*
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ashwinraj8090" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://www.hackerrank.com/profile/ashwinraj8090" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/Ashwin-Raj/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ashwinraj8090&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinraj8090&theme=tokyonight" />
+</p>
+
+---
+
+⭐ *Always curious, always learning, always improving.*
+
 
 
 
