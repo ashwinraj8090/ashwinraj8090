@@ -65,10 +65,6 @@ Currently focused on:
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashwinraj8090&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinraj8090&theme=tokyonight" />
 </p>
 
