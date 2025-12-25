@@ -22,7 +22,7 @@ Currently focused on:
 ## 🛠 Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,java,html,react.js,flask,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,c,java,html,react,flask,mysql,git,github,vscode" />
 </p>
 
 ---
