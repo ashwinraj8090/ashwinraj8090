@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science Engineering undergraduate** with a strong interest in **Artificial Intelligence, Machine Learning, and System Design**.  
+I am a **Computer Science Engineering undergraduate** with a strong interest in **Python, Machine Learning, and System Design**.  
 I enjoy building practical projects, improving my problem-solving skills, and continuously learning new technologies.
 
 Currently focused on:
